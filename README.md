@@ -15,8 +15,8 @@ Flexible, autonomous graduate with a BS in Computer Science looking to leverage 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://api.imgflip.com/get_memes/" width="512px"/>
+### 😂 Random Meme
+<img src="https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=far-droid&icon=5&color=6)](https://visitcount.itsvg.in)
