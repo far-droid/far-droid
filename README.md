@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flexible, autonomous graduate with a BCompSc (BCS) looking to leverage the experience of university studies to solve problems that delight business partners. Motivated to learn independently or in teamwork while sharing innovative ideas in an environment like Odoo that values personal growth
+Flexible, autonomous graduate with a BCompSc (BCS) looking to leverage the experience of university studies to solve problems that delight business partners. Motivated to learn independently or in teamwork while sharing innovative ideas in an environment that values personal growth
 
 
 ## 🌐 Socials:
